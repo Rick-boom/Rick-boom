@@ -64,8 +64,7 @@ and grounded in the source text.
 ![](https://streak-stats.demolab.com/?user=Rick-boom&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rick-boom&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rick-boom&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Rick-boom&icon=0&color=0)](https://visitcount.itsvg.in)
