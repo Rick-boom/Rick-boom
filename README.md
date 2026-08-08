@@ -71,3 +71,8 @@ and grounded in the source text.
 [![](https://komarev.com/ghpvc/?username=Rick-boom&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rick-boom/Rick-boom/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Rick-boom/Rick-boom/output/github-contribution-grid-snake.svg">
+</picture>
