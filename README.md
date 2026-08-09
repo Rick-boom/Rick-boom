@@ -4,7 +4,7 @@
 ⚡ I build things that are harder than they need to be, on purpose</br>
 🧰 TypeScript · Python · React · Node · Prisma · PostgreSQL · Redis · Docker</br>
 🧠 RAG pipelines, recommendation systems, and anything that has to stay fast</br>
-   under load
+   under load</br>
 📖 Off-screen: manga, manhwa, and too many browser tabs
 
 ---
